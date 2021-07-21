@@ -1,0 +1,8 @@
+__pycache__
+env
+
+config.ini
+.mypy_cache
+.pytest_cache
+.make-install*
+old

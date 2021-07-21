@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "client_id": "MailRu-VC/1.0",
+    "locale": "ru_RU",
+    "timezone": "Europe/Moscow",
+    "interfaces": {
+      "screen": {}
+    },
+    "_city_ru": "Москва"
+  },
+  "request": {
+    "command": "включи скилл новогодний квест",
+    "original_utterance": "включи скилл новогодний квест",
+    "type": "SimpleUtterance",
+    "nlu": {
+      "tokens": [
+        "включи",
+        "скилл",
+        "новогодний",
+        "квест"
+      ],
+      "entities": []
+    }
+  },
+  "session": {
+    "session_id": "111",
+    "user_id": "222",
+    "skill_id": "333",
+    "new": false,
+    "message_id": 1
+  },
+  "version": "1.0"
+}
